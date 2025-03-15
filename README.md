@@ -18,3 +18,30 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 - [Git](https://git-scm.com/) - controlling software versions
 - [Github](https://github.com/) - preparing my repositories and support git
 - [VS Code](https://code.visualstudio.com/) - code editor
+
+### TECH SKILLS 💻
+
+- Black box testing
+- Knowledge about Agile Methodologies
+- SDLC Software Development Life Cycle
+- STLC Software Testing Life Cycle
+- Creating documentation of Test cases 
+- Visualization with Test matrix
+- Bug report
+- Experience in testing on multiple platforms
+
+### SOFT SKILLS 🔍
+
+- Attention to Detail
+- Problem solving
+- Analytical Thinking for designing efficient test cases
+- Collaboration and Communication with cross-functional teams
+- Time Management for multiple priorities effectively
+- Continuous Learning Mindset
+  
+### Courses & Certificates 🏆
+- [Ostad SQA course](https://drive.google.com/file/d/1DqxY0KEflWt7EAT5GCjxXeu0NxERxACz/view)
+- [Internship Certificate from QA Harbor ltd](https://drive.google.com/file/d/1D_Mmi1V7qb5ozcg3iJWkJed_PpOfUHj4/view)
+
+### SAMPLE WORKS 📂
+
