@@ -29,6 +29,8 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 - Visualization with Test matrix
 - Bug report
 - Experience in testing on multiple platforms
+- Basic HTML,CSS
+- Python for automation testing
 
 ### SOFT SKILLS 🔍
 
@@ -45,3 +47,8 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 
 ### SAMPLE WORKS 📂
 
+### Travel website
+
+- [Test plan](https://drive.google.com/file/d/14pI_ahClDtVFnbXtreM9egGTyZRGm0of/view?usp=drive_link)
+- [Test cases](https://drive.google.com/file/d/1SaaBF46eOOJr_1tVl9-LnaDaezFUZYcj/view?usp=drive_link)
+- [Bug report](https://docs.google.com/spreadsheets/d/1A5nOXdXCToiUcDDvkd-d_7z9OyF8QKyMLcX_WgmOywU/edit?usp=drive_link)
