@@ -63,6 +63,7 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 
 - [Test list](https://docs.google.com/spreadsheets/d/1iLvAueBsh6tiT2OeBBeDKFt0J0VwPIjB8UV7hc4-g5s/edit?usp=sharing)
 - [Bug report](https://docs.google.com/spreadsheets/d/1C3xZU6yce8xe9tpzQieZO59BL4nvjBxUs1awhwDv7ZI/edit?usp=sharing)
+- [Load test report Jmeter](https://drive.google.com/file/d/1I1HHABaVMrfxa_FgEqYVWNCk87Sgrmmw/view?usp=drive_link)
 
 ### Several Automation testing project 🛡️
 
