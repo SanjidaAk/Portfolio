@@ -47,13 +47,19 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 
 ### SAMPLE WORKS 📂
 
-### Travel website
+### Travel website testing
 
 - [Test plan](https://drive.google.com/file/d/14pI_ahClDtVFnbXtreM9egGTyZRGm0of/view?usp=drive_link)
 - [Test cases](https://drive.google.com/file/d/1SaaBF46eOOJr_1tVl9-LnaDaezFUZYcj/view?usp=drive_link)
 - [Bug report](https://docs.google.com/spreadsheets/d/1A5nOXdXCToiUcDDvkd-d_7z9OyF8QKyMLcX_WgmOywU/edit?usp=drive_link)
 
-### E-com website
+### Android APP testing
+
+- [Test Plan](https://drive.google.com/file/d/1jWuzijhekr9d30aB9kQB-1j6kdUBpI7C/view?usp=drive_link)
+- [Test case](https://drive.google.com/file/d/1zu6cu05NSKxWmF3tuanw6Clobamb2BGp/view?usp=drive_link)
+- [Bug Report](https://drive.google.com/file/d/1lb65W3yMVflZCP6ING8Kt-jNcYXEVdnq/view?usp=drive_link) 
+
+### E-com website testing
 
 - [Test list](https://docs.google.com/spreadsheets/d/1iLvAueBsh6tiT2OeBBeDKFt0J0VwPIjB8UV7hc4-g5s/edit?usp=sharing)
 - [Bug report](https://docs.google.com/spreadsheets/d/1C3xZU6yce8xe9tpzQieZO59BL4nvjBxUs1awhwDv7ZI/edit?usp=sharing)
