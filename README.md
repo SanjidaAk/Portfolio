@@ -41,9 +41,6 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 - Time Management for multiple priorities effectively
 - Continuous Learning Mindset
   
-### Courses & Certificates 🏆
-- [Ostad SQA course](https://drive.google.com/file/d/1DqxY0KEflWt7EAT5GCjxXeu0NxERxACz/view)
-- [Internship Certificate from QA Harbor ltd](https://drive.google.com/file/d/1D_Mmi1V7qb5ozcg3iJWkJed_PpOfUHj4/view)
 
 ### SAMPLE WORKS 📂
 
@@ -69,3 +66,7 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 ### Several Automation testing project 🛡️
 
 - [Projects](https://github.com/SanjidaAk/Software-Testing/tree/main/Selenium-Python)
+
+### Courses & Certificates 🏆
+- [Ostad SQA course](https://drive.google.com/file/d/1DqxY0KEflWt7EAT5GCjxXeu0NxERxACz/view)
+- [Internship Certificate from QA Harbor ltd](https://drive.google.com/file/d/1D_Mmi1V7qb5ozcg3iJWkJed_PpOfUHj4/view)
