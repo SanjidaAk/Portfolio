@@ -57,7 +57,8 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 
 - [Test Plan](https://drive.google.com/file/d/1jWuzijhekr9d30aB9kQB-1j6kdUBpI7C/view?usp=drive_link)
 - [Test case](https://docs.google.com/spreadsheets/d/19MM4XlyR46IEM3quEcZC6Z-10xKElaCcDith5igisMY/edit?usp=sharing)
-- [Bug Report](https://drive.google.com/file/d/1lb65W3yMVflZCP6ING8Kt-jNcYXEVdnq/view?usp=drive_link) 
+- [Bug Report](https://drive.google.com/file/d/1lb65W3yMVflZCP6ING8Kt-jNcYXEVdnq/view?usp=drive_link)
+- [Test Report](https://drive.google.com/file/d/1ONPdspxi2qVvvzqKiYGu-nppjOeJMPZG/view?usp=drive_link)
 
 ### E-com website testing
 
