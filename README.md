@@ -49,6 +49,7 @@ This portfolio serves as a platform to share my knowledge and showcase the skill
 - [Test plan](https://drive.google.com/file/d/14pI_ahClDtVFnbXtreM9egGTyZRGm0of/view?usp=drive_link)
 - [Test cases](https://drive.google.com/file/d/1SaaBF46eOOJr_1tVl9-LnaDaezFUZYcj/view?usp=drive_link)
 - [Bug report](https://docs.google.com/spreadsheets/d/1A5nOXdXCToiUcDDvkd-d_7z9OyF8QKyMLcX_WgmOywU/edit?usp=drive_link)
+- [Test Report](https://drive.google.com/file/d/1ahg5wIGkzB14rmejn6cgtW4ofBoWSR7u/view?usp=drive_link)
 
 ### Android APP testing
 
